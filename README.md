@@ -8,5 +8,5 @@ A demo program that comunicates a Micrologix 1400 (1766-L32BXB) PLC directly wit
 
 Get Libplctag at https://github.com/kyle-github/libplctag
 
-###License:
+### License:
 This code is released under MIT license. The Libplctag dll is released under LGPL license.
